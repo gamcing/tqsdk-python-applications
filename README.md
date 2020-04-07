@@ -4,3 +4,5 @@ tqsdk-python的一些小应用
 期权工具类
 ## ta
 指标工具
+## tqexcel
+tqsdk-python的Excel插件
