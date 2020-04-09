@@ -6,3 +6,5 @@ tqsdk-python的一些小应用
 指标工具
 ## tqexcel
 tqsdk-python的Excel插件
+## strategy
+一些无趣且碎纸的小策略
